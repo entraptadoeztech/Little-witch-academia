@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { title: 'Resonance', artist: 'Home', url: 'https://od.lk/s/OTdfOTQzNzY2NjFf/HOME%20Resonance.mp3', cover: 'https://f4.bcbits.com/img/a3321951232_10.jpg' },
                 { title: 'Miku', artist: 'Anamanaguchi', url: 'https://od.lk/s/OTdfOTQ0MDAyODdf/Miku%20by%20Anamanaguchi%20Lyrics%20Video.mp3', cover: 'https://t2.genius.com/unsafe/344x344/https%3A%2F%2Fimages.genius.com%2F379dd3f911ddadfb3da8387069fdfd51.1000x1000x1.png' },
                 { title: 'Memory Reboot', artist: 'VØJ, Narvent', url: 'https://od.lk/s/OTdfOTQzNzY5MjRf/V%C3%98J%20Narvent%20Memory%20Reboot%204K%20Music%20Video.mp3', cover: 'https://i1.sndcdn.com/artworks-8zY79hHzgzoNqx9O-qPGziw-t500x500.jpg' },
-                { title: 'Born to be a star', artist : 'Izar', url: '', cover: ''},
+                { title: 'Born to be a star', artist : 'Izar', url: 'https://entraptas-dumb-project.nekoweb.org/Born%20to%20be%20a%20star%20-%20Izar%20(128k).mp3', cover: 'https://cdn.statically.io/gh/Entraptadoeztechnology/prodigy-2.45.0/refs/heads/main/IMG_0601.jpeg'},
                 { title: 'Pretty Girl', artist: 'Clairo', url: 'https://od.lk/s/OTdfOTQzNzY3Mjlf/Clairo%20Pretty%20Girl%20slowed%20reverb.mp3', cover: 'https://t2.genius.com/unsafe/344x344/https%3A%2F%2Fimages.genius.com%2F188096681dc237e27d7f3e8dcb1a9145.1000x1000x1.jpg' }
             ];
 
